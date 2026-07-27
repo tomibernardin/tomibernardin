@@ -1,7 +1,7 @@
 ## Hi you, i’m Tomas Bernardin 👋
 📍 I’m from Buenos Aires, Argentina
 
-🌱 I’m currently at Globant as Java Developer.
+🌱 I’m currently working at Globant as Java Developer.
 
 - 🛣️ This are my first steps as a software developer. 🤓 [DH training](https://github.com/stars/tomibernardin/lists/dh-training)
 - ⚡ Fun facts: Dog lover, food lover and PokéFan.
