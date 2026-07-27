@@ -1,10 +1,10 @@
 ## Hi you, i’m Tomas Bernardin 👋
 📍 I’m from Buenos Aires, Argentina
 
-🌱 I’m currently taking the Certified Tech Developer career at Digital House.
+🌱 I’m currently at Globant as Java Developer.
 
 - 🛣️ This are my first steps as a software developer. 🤓 [DH training](https://github.com/stars/tomibernardin/lists/dh-training)
-- ⚡ Fun fact: Dog lover, food lover and PokéFan.
+- ⚡ Fun facts: Dog lover, food lover and PokéFan.
 - 📫 How to reach me: 
   - 💼 [Linkedin](https://www.linkedin.com/in/tomasbernardin/)
   - 📸 [Instagram](https://www.instagram.com/tomibernardin/)
